@@ -5236,5 +5236,14 @@
     "pricing": null,
     "category": "👥 Community",
     "description": "Southeast Asian startup ecosystem platform covering tech news, events, funding, and community connections."
+  },
+  {
+    "name": "StarTap",
+    "url": "https://startap.cc",
+    "domain_rating": null,
+    "link_type": null,
+    "pricing": "Free",
+    "category": "🚀 Startup Directory",
+    "description": "Gamified product directory where makers list websites, earn Stars through taps and automatic Sources, and compete on daily and all-time leaderboards."
   }
 ]
